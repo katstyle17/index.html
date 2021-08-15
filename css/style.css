@@ -5,6 +5,17 @@
   color: red;
 }
 
+.ameblo {
+  text-align: center;
+  margin: 20px 0;
+}
+a {
+  font-size: 20px;
+  color: white;
+  background-color: skyblue;
+  border-radius: 5px;
+  text-decoration: none;
+}
 h1 {
   border-bottom: 6px solid #0bd;
 }
