@@ -9,7 +9,6 @@ section {
 }
 
 a {
-  text-align: center;
   margin: 20px 0;
   font-size: 20px;
   color: white;
@@ -17,6 +16,18 @@ a {
   border-radius: 5px;
   text-decoration: none;
 }
+
+.icon {
+  padding-top: 7px;
+  background-color: rgb(210, 234, 243);
+}
+.icon img {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
 h1 {
   border-bottom: 6px solid #0bd;
 }
