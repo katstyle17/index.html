@@ -70,6 +70,18 @@ ul li::before {
   height: auto;
 }
 
+footer {
+  padding: 20px 0;
+  height: 40px;
+  background-color: rgb(157, 229, 241);
+}
+footer p {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 60px;
+  color: grey;
+}
+
 
 /* DESKTOP SIZE
 ------------------------------ */
