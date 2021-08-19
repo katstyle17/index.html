@@ -82,6 +82,13 @@ footer p {
   color: grey;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #111;
+    color: #fff;
+  }
+}
+
 
 /* DESKTOP SIZE
 ------------------------------ */
