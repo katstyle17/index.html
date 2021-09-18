@@ -35,6 +35,10 @@ section a {
   border-color: white;
 }
 
+.gia {
+  text-align: center;
+}
+
 h1 {
   border-bottom: 6px solid #0bd;
   text-align: center;
